@@ -1,6 +1,8 @@
 # Predicting expected substitutions
 The Python module containing functions needed for modelling expected substitutions and validating/visualising results and model statistics against the gold standard method - BEAST. Accompanying the "Mind your Ps: Using Probability in the Interpretation of Molecular Epidemiology Data" PHE manuscript and QMUL thesis. This project has been carried out in the context of my work at Public Health England and my MSc in Bioinformatics at Queen Mary University of London.
 
+For up-to-date project, go to [PHE GitHub repo](https://github.com/phe-bioinformatics/mind-your-ps-2021-manuscript-code.git/).
+
 A model describing expected substitutions in probabilistic terms: stochastic
 variation of a substitution rate.
 A BEAST tree is the gold standard analysis for taking into account sequence and
